@@ -1,0 +1,15 @@
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\bin\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.exe
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\bin\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.deps.json
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\bin\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.runtimeconfig.json
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\bin\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.dll
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\bin\Debug\net6.0\ref\AbstacaoSmartPhoneCSharpDotNet.DIO.dll
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\bin\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.pdb
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\obj\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.csproj.AssemblyReference.cache
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\obj\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\obj\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.AssemblyInfoInputs.cache
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\obj\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.AssemblyInfo.cs
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\obj\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.csproj.CoreCompileInputs.cache
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\obj\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.dll
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\obj\Debug\net6.0\ref\AbstacaoSmartPhoneCSharpDotNet.DIO.dll
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\obj\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.pdb
+C:\Users\Thieg\Documents\DIO\AbstacaoSmartPhoneCSharpDotNet.DIO\obj\Debug\net6.0\AbstacaoSmartPhoneCSharpDotNet.DIO.genruntimeconfig.cache
